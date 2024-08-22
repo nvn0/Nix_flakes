@@ -1,5 +1,5 @@
 {
-  description = "Flake for python 3.11"
+  description = "Flake for python 3.11";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.05";
